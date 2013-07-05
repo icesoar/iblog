@@ -13,7 +13,7 @@ tagline: Supporting tagline
   {% endfor %}
 </ul>
 
-=========
+<hr/>
 
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
