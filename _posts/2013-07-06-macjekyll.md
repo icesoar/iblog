@@ -2,7 +2,7 @@
 layout: post
 title: "Mac下安装Jekyll"
 description: ""
-category: tools
+category: [tools]
 tags: [mac,jekyll,install]
 ---
 {% include JB/setup %}
