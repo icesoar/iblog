@@ -3,7 +3,7 @@ layout: post
 title: "树莓派安装&node.js"
 description: ""
 category: 树莓派
-tags: [Raspberry Pi, node.js]
+tags: [RaspberryPi, node.js]
 ---
 {% include JB/setup %}
 
